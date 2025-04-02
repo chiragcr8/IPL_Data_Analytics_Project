@@ -1,0 +1,15 @@
+IPL_Data_Analytics_Project/
+│
+├── app.py                     # Main Streamlit app file
+├── README.md                  # Project description and instructions
+├── requirements.txt           # List of dependencies
+├── matches.csv                # Match-level dataset
+├── deliveries.csv             # Ball-by-ball dataset
+│
+├── notebooks/                 # Folder for Jupyter Notebooks
+│   └── IPL_Data_Analysis.ipynb # Jupyter Notebook for data exploration and analysis
+│
+├── images/                    # Folder for images (optional)
+│   └── example_plot.png        # Example image for README or app
+│
+└── .gitignore                 # File to exclude unnecessary files from Git
